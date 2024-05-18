@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesper</h1>
 <h3 align="center">A learning developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k1nsej&label=Profile%20views&color=0e75b6&style=flat" alt="k1nsej" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=k1nsej&label=Profile%20views&color=0e75b6&style=flat" alt="k1nsej" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1nsej" alt="k1nsej" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1nsej" alt="k1nsej" /></a> </p>
 
 - 🔭 I’m currently working on [a Sims info site](simsinfo.2ix.de)
 
