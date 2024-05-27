@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a Sims info site](simsinfo.2ix.de)
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML**
 
