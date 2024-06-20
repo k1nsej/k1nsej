@@ -23,5 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1nsej&show_icons=true&locale=en" alt="k1nsej" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=k1nsej&theme=light&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1nsej)](https://github.com/anuraghazra/github-readme-stats)
 </div>
