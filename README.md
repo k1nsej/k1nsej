@@ -23,8 +23,9 @@
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1nsej&show_icons=true&locale=en" alt="k1nsej" /></p>
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=k1nsej&theme=light&hide_border=true)](https://git.io/streak-stats)</div>
+<div align="center"><p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=k1nsej&amp;theme=light&amp;hide_border=true" alt="GitHub Streak"></a></p></div>
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1nsej)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div align="center"><p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1nsej" alt="Top Langs"></a></p>
+</div>
 
 </div>
